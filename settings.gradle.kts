@@ -1,0 +1,1 @@
+rootProject.name = "ktor.fhlcrab32.com.ktor-sample"
